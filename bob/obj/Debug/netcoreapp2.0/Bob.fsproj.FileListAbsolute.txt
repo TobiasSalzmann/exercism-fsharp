@@ -1,0 +1,10 @@
+/Users/tsalzman/exercism/fsharp/bob/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/tsalzman/exercism/fsharp/bob/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/Users/tsalzman/exercism/fsharp/bob/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/Users/tsalzman/exercism/fsharp/bob/bin/Debug/netcoreapp2.0/Bob.deps.json
+/Users/tsalzman/exercism/fsharp/bob/bin/Debug/netcoreapp2.0/Bob.runtimeconfig.json
+/Users/tsalzman/exercism/fsharp/bob/bin/Debug/netcoreapp2.0/Bob.runtimeconfig.dev.json
+/Users/tsalzman/exercism/fsharp/bob/bin/Debug/netcoreapp2.0/Bob.dll
+/Users/tsalzman/exercism/fsharp/bob/bin/Debug/netcoreapp2.0/Bob.pdb
+/Users/tsalzman/exercism/fsharp/bob/obj/Debug/netcoreapp2.0/Bob.dll
+/Users/tsalzman/exercism/fsharp/bob/obj/Debug/netcoreapp2.0/Bob.pdb
